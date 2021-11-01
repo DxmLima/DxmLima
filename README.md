@@ -7,6 +7,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DxmLima&show_icons=true&theme=radical)
 ## I'm a web development student, I :heart: to program everything 
 ### :large_orange_diamond: I Working :large_orange_diamond:
-<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+![alt text](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![alt text](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### Follow Me On 
+[](https://www.instagram.com/dxm_lima/)![alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+

@@ -2,7 +2,7 @@
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-# Hello there! My name is Mateus Lima.:wave:
+# Hello there! :wave:
 ### I Live in **Brazil** , São Paulo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DxmLima&show_icons=true&theme=radical)
 ## I'm a web development student, I :heart: to program everything 

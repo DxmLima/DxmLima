@@ -1,4 +1,4 @@
-![alt text](https://cdn.discordapp.com/attachments/471110825558671368/904585117773742140/teste-gif.gif)
+
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 

@@ -4,7 +4,7 @@
 
 # Hello there! :wave:
 ### I Live in **Brazil** , São Paulo
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DxmLima&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DxmLima&show_icons=true&theme=algolia)
 ## I'm a web development student, I :heart: to program everything 
 ### :large_orange_diamond: I Working :large_orange_diamond:
 ![alt text](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)

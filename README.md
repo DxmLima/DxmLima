@@ -18,5 +18,5 @@
 <a href="https://www.linkedin.com/in/mateus-lima-832858217/" rel="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>
 ### Send me a Coffee?
 <a href="https://www.buymeacoffee.com/DxmLima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-![Snake animation](https://github.com/DxmLima/DxmLima/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/DxmLima/DxmLima/blob/output/github-contribution-grid-snake.gif)

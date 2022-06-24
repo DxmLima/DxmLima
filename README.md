@@ -8,8 +8,7 @@ I Worked +3 yer ind web developer word!
 
 * 🤝  I'm open to collaborating on Projects
 
-
-![alt text](https://raw.githubusercontent.com/DxmLima/My-Portfolio.io/main/img/readmeimg.gif?token=GHSAT0AAAAAABUSW4RG25ADOAMC3HCRLTZQYVV4OAQ)
+[![ReadmeBanner](https://raw.githubusercontent.com/DxmLima/My-Portfolio.io/main/img/readmeimg.gif?token=GHSAT0AAAAAABUSW4RG25ADOAMC3HCRLTZQYVV4OAQ)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
  Skills
 

@@ -4,7 +4,7 @@
 ▫*I have knowledge with web development practices, Designing websites with responsive templates and other*
 <br>
 <br>
-![gif](https://media.tenor.com/Z6gmDPeM6dgAAAAC/dance-moves.gif)
+![gif](https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
 
 
 # 💻 Tech Stack:

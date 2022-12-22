@@ -3,7 +3,8 @@
 <br>
 ▫*I have knowledge with web development practices, Designing websites with responsive templates and other*
 <br>
-▫*If you're interested, here's my portfolio on github!*
+<br>
+![gif](https://media.tenor.com/Z6gmDPeM6dgAAAAC/dance-moves.gif)
 
 
 # 💻 Tech Stack:
@@ -23,7 +24,7 @@
 ![ADPP](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![FIG](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![gif](https://media.tenor.com/ccJehxA3F_0AAAAC/computers.gif)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,7 +1,6 @@
 # 👀 About Me:
-▫*Studying Systems Analysis and Development, I am currently studying artificial intelligence processes in medicine*
+▫*Studying Systems Analysis and Development
 <br>
-▫*I have knowledge with web development practices, Designing websites with responsive templates and other*
 <br>
 <br>
 ![gif](https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)

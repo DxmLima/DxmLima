@@ -19,6 +19,7 @@
 
 
 # 🚀 Another Skills!
+![GIG](https://tenor.com/pt-BR/view/cheats-gif-24492575)
 ![ADPH](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![ADPP](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![FIG](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)

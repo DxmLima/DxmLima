@@ -16,10 +16,10 @@
 ![Bts](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Wordpress](	https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DxmLima&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DxmLima&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Wordpress](	https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DxmLima&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DxmLima&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🚀 Another Skills!
 ![ADPH](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)

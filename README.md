@@ -6,6 +6,7 @@
 ![gif](https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
 
 
+
 # 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -16,6 +17,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Wordpress](	https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DxmLima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🚀 Another Skills!

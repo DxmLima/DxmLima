@@ -18,8 +18,8 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Wordpress](	https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DxmLima&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DxmLima&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DxmLima&theme=react&line_height=40&hide=css"/> </a>
 
 # 🚀 Another Skills!
 ![ADPH](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)

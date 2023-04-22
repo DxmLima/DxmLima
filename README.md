@@ -1,5 +1,5 @@
 # 👀 About Me:
-▫*Studying Systems Analysis and Development
+Software engineer / Data Science
 <br>
 <br>
 <br>

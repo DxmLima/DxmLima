@@ -19,7 +19,6 @@ Software engineer / Data Science
 ![Wordpress](	https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) <br>
 
 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DxmLima&theme=react&line_height=40&hide=css"/> </a>
 
 # 🚀 Another Skills!
 ![ADPH](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)

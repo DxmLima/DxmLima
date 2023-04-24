@@ -20,6 +20,8 @@ Software engineer / Data Science
 
 
 
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DxmLima&theme=react&line_height=40&hide=css"/> </a>
+
 # 🚀 Another Skills!
 ![ADPH](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![ADPP](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)

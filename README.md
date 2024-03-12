@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [mateuslima.dev](mateuslima.dev)
 
-- 📫 How to reach me mateuslima@atenadev.com.br
+- 📫 How to reach me mateuslimadeev@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>

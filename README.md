@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **React , React Native**
 
-- 👨‍💻 All of my projects are available at [atenadev.com.br](atenadev.com.br)
+- 👨‍💻 All of my projects are available at [mateuslima.dev](mateuslima.dev)
 
-- 📫 How to reach me **mateuslima@atenadev.com.br**
+- 📫 How to reach me mateuslima@atenadev.com.br
+
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/devmateuslima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devmateuslima" height="30" width="40" /></a>
 </p>

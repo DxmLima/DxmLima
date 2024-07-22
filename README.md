@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus Lima</h1>
-<h3 align="center">A frontend developer from Campinas - SP</h3>
+<h3 align="center">A frontend developer from São Paulo</h3>
 
 - 🌱 I’m currently learning **React , React Native**
 

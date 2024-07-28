@@ -7,7 +7,7 @@
 
 - 📫 How to reach me mateuslimadeev@gmail.com
 
-- Recent Working in [AutoPlacas.Net](autoplacas.net)
+- Recent Working in AutoPlacas.net (www.autoplacas.net)
 
 
 <h3 align="left">Connect with me:</h3>

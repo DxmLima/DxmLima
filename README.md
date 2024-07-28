@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
 <h1 align="center">Hi 👋, I'm Mateus Lima</h1>
 <h3 align="center">A frontend developer from São Paulo</h3>
 

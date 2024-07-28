@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React , React Native**
 
-- 👨‍💻 All of my projects are available at [mateuslima.dev](mateuslima.dev)
+- 👨‍💻 All of my projects are available at www.mateuslima.dev
 
 - 📫 How to reach me mateuslimadeev@gmail.com
 
-- Recent Working in AutoPlacas.net (www.autoplacas.net)
+- Recent Working in  www.autoplacas.net
 
 
 <h3 align="left">Connect with me:</h3>

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'm%20Mateus%20Lima&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Mateus%20Lima&fontSize=45)
 <h3 align="center">A frontend developer from São Paulo</h3>
 
 - 🌱 I’m currently learning **React , React Native**

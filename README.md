@@ -24,7 +24,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dxmlima&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="dxmlima" /></p>
+![DXMLIMA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DXMLIMA&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+
+![DXMLIMA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DXMLIMA&theme=gotham&hide_border=true)
 
 
 ![fotter](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=fotter)

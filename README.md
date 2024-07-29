@@ -26,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dxmlima&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="dxmlima" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dxmlima&theme=chartreuse-dark&show_icons=true&locale=en" alt="dxmlima" /></p>
 
 ![fotter](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=fotter)

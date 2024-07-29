@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Mateus%20Lima&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hi,%20I'm%20Mateus%20Lima&fontSize=45)
 <h3 align="center">A frontend developer from São Paulo</h3>
 
 - 🌱 I’m currently learning **React , React Native**
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dxmlima&theme=chartreuse-dark&show_icons=true&locale=en" alt="dxmlima" /></p>
 
-![fotter](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=fotter)
+![fotter](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=fotter)

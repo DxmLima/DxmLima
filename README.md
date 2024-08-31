@@ -29,4 +29,4 @@
 ![DXMLIMA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DXMLIMA&theme=gotham&hide_border=true)
 
 
-![fotter](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=fotter)
+

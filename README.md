@@ -22,7 +22,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><br> </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DxmLima)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DxmLima&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
 
 
 

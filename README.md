@@ -1,7 +1,6 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hi,%20I'm%20Mateus%20Lima&fontSize=45)
 <h3 align="center">A FullStack developer from São Paulo</h3>
 
-- 🌱 I’m currently learning **React , React Native**
 
 - 👨‍💻 All of my projects are available at www.mateuslima.dev
 

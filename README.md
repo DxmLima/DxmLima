@@ -1,6 +1,6 @@
 
 
-![App Screenshot](https://raw.githubusercontent.com/DxmLima/portfolioupdate/refs/heads/master/public/BannerGit.png?token=GHSAT0AAAAAADFG3ZIH23GVWFP7LALG4W642CEMAMA)
+![App Screenshot](https://media.discordapp.net/attachments/1275100258556313744/1380946000750841926/BannerGit.png?ex=6845b9af&is=6844682f&hm=f1ad20dd22cd7da9b416e0e5c480402fe8fd7de226aaafb419e37cabf7ca9dc0&=&format=webp&quality=lossless)
 
 
 

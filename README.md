@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.discordapp.net/attachments/1275100258556313744/1380946000750841926/BannerGit.png?format=webp&quality=lossless" width="100%" alt="Banner" />
+<img src="https://media.discordapp.net/attachments/1275100258556313744/1541457834007597206/CaronteLandscape.png?ex=6a8da9fa&is=6a8c587a&hm=b2ca8e7e84dd1be8907859e0e15b0c44cd1057510cadb3d5ee764539f0cf1dde&=&format=webp&quality=lossless&width=800&height=600" />
 
 <br/>
 
@@ -47,7 +47,7 @@ open_to:   Freelance projects & collaborations
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="coding" />
+<img src="https://media.discordapp.net/attachments/1275100258556313744/1541457834531623062/CaronteMinor.png?ex=6a8da9fa&is=6a8c587a&hm=f540934afdcde7163f577a9f011691f3c2e32a5eaa664917b4da23858a83bd77&=&format=webp&quality=lossless&width=427&height=640" />
 
 </td>
 </tr>
